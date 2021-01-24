@@ -1,0 +1,21 @@
+.user-login-card {
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: #fff;
+    width: 90%;
+    max-width: 450px;
+    -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+
+.card-title {
+    padding-top: 40px;
+}
+
+.admin-card {
+    padding-bottom: 70px;
+}

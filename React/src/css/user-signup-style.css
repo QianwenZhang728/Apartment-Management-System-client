@@ -1,0 +1,19 @@
+.user-signup-template {
+    background-color: #fff3e2;
+    padding: 100px 50px 70px 50px;
+}
+
+.user-signup-card {
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: #fff;
+    padding: 30px;
+    width: 50%;
+    max-width: 450px;
+    padding: 30px 50px;
+    -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    text-align: center;
+    position: relative;
+    top: 30px;
+}

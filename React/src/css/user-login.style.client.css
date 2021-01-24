@@ -1,0 +1,46 @@
+.user-login-card {
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: #fff;
+    width: 90%;
+    max-width: 450px;
+    position: relative;
+    left: 50px;
+    -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    text-align: center;
+}
+
+.user-login-item {
+    width: 80%;
+    position: relative;
+    left: 50px;
+}
+
+.user-login-title {
+    position: relative;
+    bottom: 20px;
+}
+
+.user-payment-icon {
+    position: relative;
+    left: 130px;
+    top: 30px;
+}
+
+.user-maintenance-icon {
+    position: relative;
+    left: 130px;
+    top: 110px;
+}
+
+.wbdv-user-login-header {
+    background-color: #fff3e2;
+    padding: 130px 20px 50px 20px;
+    margin-bottom: 20px;
+    max-width: 100%;
+}
+
+.col-md-6 {
+    margin-top: 60px;
+}

@@ -1,0 +1,44 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React example starter project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
+    "font-awesome": "^4.7.0",
+    "react": "17.0.0",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "17.0.0",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "3.4.3",
+    "react-stripe-checkout": "^2.6.3",
+    "react-toastify": "^6.1.0",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "postcss": "8.0.3",
+    "postcss-cli": "7.1.2",
+    "tailwindcss": "1.8.10",
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "yarn prestart && react-scripts start",
+    "build": "yarn prebuild && react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "prestart": "postcss ./src/index.tailwind.css -c ./tailwind.config.js -o ./src/tailwind.css",
+    "prebuild": "postcss ./src/index.tailwind.css -c ./tailwind.config.js -o ./src/tailwind.css",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

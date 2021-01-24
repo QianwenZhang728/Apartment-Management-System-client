@@ -1,0 +1,121 @@
+.wbdv-user-top-row {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 100px;
+    background-color: lightskyblue;
+    color: black;
+}
+.wbdv-user-second-row {
+    background-color: lightblue;
+    color: black;
+}
+
+/*.wbdv-user-login-header {*/
+/*    padding-top: 100px;*/
+/*}*/
+
+.user-nav {
+    position: relative;
+    top: 100px;
+    background-color: lightskyblue;
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+.resident-body {
+    padding: 40px 0 30px 0;
+    margin-bottom: 50px;
+}
+
+.wbdv-search {
+    /*margin-top: 50px;*/
+}
+
+/*maintaining request*/
+.div-padding-top {
+    padding-top: 40px;
+}
+
+.font-italic {
+    font-size: 1.5rem;
+}
+
+.admin-table {
+    position: relative;
+    top: 40px;
+    padding-bottom: 60px;
+}
+
+/*payments*/
+.payment-title {
+    position: relative;
+    top: 80px;
+    padding-bottom: 100px;
+}
+
+/*Profile*/
+.user-profile {
+    position: relative;
+    top: 80px;
+    margin-bottom: 80px;
+}
+
+/*.user-profile-template {*/
+/*    background-color: #fff3e2;*/
+/*    padding: 100px 50px 70px 50px;*/
+/*}*/
+
+.user-profile-card {
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: #fff;
+    padding: 30px;
+    max-width: 550px;
+    padding: 30px 50px;
+    -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    text-align: center;
+    position: relative;
+    top: 80px;
+}
+
+.user-update-card {
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: #fff;
+    padding: 30px;
+    max-width: 1000px;
+    padding: 30px 50px;
+    -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    text-align: center;
+    position: relative;
+    top: 80px;
+}
+
+/*Admin Card*/
+.card-title {
+    position: relative;
+    top: 40px;
+}
+
+.admin-contact-card {
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: #fff;
+    width: 90%;
+    max-width: 550px;
+    position: relative;
+    top: 60px;
+    -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    text-align: center;
+}
+
+.admin-contact-item {
+    width: 80%;
+    position: relative;
+    left: 50px;
+}
+
+

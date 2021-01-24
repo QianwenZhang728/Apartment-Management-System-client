@@ -1,0 +1,13 @@
+.admin-management-head {
+    position: relative;
+    top: 60px;
+    padding-bottom: 30px;
+}
+.admin-management-body {
+    margin-bottom: 10px;
+    padding-top: 5px;
+}
+
+.div-padding-top {
+    padding-top: 40px;
+}

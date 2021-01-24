@@ -1,0 +1,15 @@
+.wbdv-admin-top-row {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 100px;
+    background-color: lightskyblue;
+    color: black;
+}
+.wbdv-admin-second-row {
+    background-color: lightblue;
+    color: black;
+}
+
+.wbdv-admin-login-header {
+    padding-top: 100px;
+}
